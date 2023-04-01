@@ -6,7 +6,7 @@ A, B for navigation through room1 and room2
 
 C, D for navigation through room2 and room3
 
-E for navigation through room3 and balcony
+E, F for navigation through room3 and balcony
 
 # How 2 build
 It's super duper easy!

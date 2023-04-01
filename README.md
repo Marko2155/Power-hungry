@@ -1,5 +1,5 @@
 # Power-hungry
-A game made in LÖVE Lua where you are a robotic clock and to wake your owner up on time you need batteries. Your owner charges you "all night", but when he falls asleep, you want to just roam around. You have 20% power left, and you have to find batteries to stay alive. If your power reaches 0 then the game will close, meaning you lost. If your power reaches 100%, congrats! You win the game and you get a PHACW certificate.
+A game made in LÖVE Lua where you are a robotic clock and to wake your owner up on time you need batteries. Your owner charges you "all night", but when he falls asleep, you want to just roam around. You have 50% power left, and you have to find batteries to stay alive. If your power reaches 0 then the game will close, meaning you lost. If your power reaches 100%, congrats! You win the game and you get a PHACW certificate.
 
 # Controls
 A, B for navigation through room1 and room2

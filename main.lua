@@ -8,7 +8,7 @@ roomnum = 1
 batteryroom = love.math.random(1, 4)
 print("Battery location is now room ")
 print(batteryroom)
-power = 11000
+power = 5000
 badcomic = nil
 powerimage = nil
 couch = nil
